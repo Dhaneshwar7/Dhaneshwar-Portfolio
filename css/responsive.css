@@ -1161,7 +1161,7 @@
 	}
 	/* Portfolio section text */
 	.portfolio-text h6 {
-		background-color: red !important;
+		/* background-color: red !important; */
 		margin-bottom: 0;
 		color: #232323;
 		font-size: var(--font20) !important;
