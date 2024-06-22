@@ -1036,9 +1036,9 @@
 		font-size: 6vw;
 	}
 	.mobile-circle > a {
-        color: black;
-        background-color: #759f19;
-        display: inline-block;
+		color: black;
+		background-color: #759f19;
+		display: inline-block;
 		padding: 1vw 5vw;
 		margin-top: 3vw;
 		font-size: 5vw;
@@ -1159,4 +1159,38 @@
 	.footer-section .footer-area .images-row .images-wrapper img:nth-child(7) {
 		height: 60px;
 	}
+	/* Portfolio section text */
+	.portfolio-text h6 {
+		background-color: red !important;
+		margin-bottom: 0;
+		color: #232323;
+		font-size: var(--font20) !important;
+		white-space: nowrap;
+		text-overflow: ellipsis;
+		font-weight: 600;
+	}
+	.portfolio-text p {
+		overflow: auto;
+		font-size: var(--font14) !important;
+	}
+    .project-content{
+    padding: 0 1px;
+    /* background-color: #34a853; */
+    width: 100%;
+    height: fit-content;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.project-links{
+    display: flex;
+    gap: 10px;
+    padding: 2px 4px;
+    border-radius: 8px;
+    background-color: rgba(215, 208, 208, 0.775);
+}
+.project-links a img{
+    width: 28px;
+    height: 28px;
+}
 }
