@@ -442,12 +442,13 @@ body.black .top-nav-sec.fixed-nav .top-nav {
 
 .top-nav .right-btn-area .nav-get-started a {
 	text-decoration: none;
-	color: #a177b4;
-	background-color: #efe6f4;
+	color: #201f21;
+	background-color: #9fc5a7;
 	padding: 10px 20px;
 	border-radius: 20px;
 	line-height: 20px;
 	font-size: 14px;
+	font-weight: 600;
 	white-space: nowrap;
 	opacity: 1;
 	visibility: visible;
@@ -457,7 +458,7 @@ body.black .top-nav-sec.fixed-nav .top-nav {
 
 .top-nav .right-btn-area .nav-get-started a:hover {
 	color: #fff;
-	background-color: #a177b4;
+	background-color: #62833d;
 }
 
 .top-nav .mobile-bottom-contact {
@@ -3007,31 +3008,30 @@ body.black .contact-section h2 a {
 	top: 0;
 	width: 100%;
 }
-.bg1{
-    background-image: url("/images/icon/hoverimg.png");
+.bg1 {
+	background-image: url('/images/icon/hoverimg.png');
 }
-.bg2{
-    background-image: url("/images/icon/hoverimg.png");
+.bg2 {
+	background-image: url('/images/icon/hoverimg.png');
 }
-
 
 .inner {
-  height: 100px;
-  width: 400px;
+	height: 100px;
+	width: 400px;
 }
 .text {
-    text-transform: capitalize;
-    font-style: oblique;
-    font-weight: 800;
-  position: relative;
-  opacity: .7;
-  width: fit-content;
-  white-space: nowrap;
+	text-transform: capitalize;
+	font-style: oblique;
+	font-weight: 800;
+	position: relative;
+	opacity: 0.7;
+	width: fit-content;
+	white-space: nowrap;
 }
 .target {
-  transform: translate(var(--x), var(--y));
+	transform: translate(var(--x), var(--y));
 }
 .button:active .target {
-  opacity: 0.7;
-  transition: opacity 100ms;
+	opacity: 0.7;
+	transition: opacity 100ms;
 }
