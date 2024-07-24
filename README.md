@@ -39,10 +39,11 @@ Check out the live demo of my portfolio [MY PORTFOLIO CLICK HERE](https://www.dh
 
 ## 📸 Screenshots
 <div style="flex">
-<img src="https://www.dhaneshwar.site/images/PizzaWizzaSlider/01.png" alt="Alt text" width="400" height="270">
-<img src="https://www.dhaneshwar.site/images/PizzaWizzaSlider/01.png" alt="Alt text" width="400" height="270">
-<img src="https://www.dhaneshwar.site/images/PizzaWizzaSlider/01.png" alt="Alt text" width="400" height="270">
-<img src="https://www.dhaneshwar.site/images/PizzaWizzaSlider/01.png" alt="Alt text" width="400" height="270">
+<img src="./images/Screenshot/HomePage.png" alt="Alt text" width="400" height="270">
+<img src="./images/Screenshot/Introduction.png" alt="Alt text" width="400" height="270">
+<img src="./images/Screenshot/Experience.png" alt="Alt text" width="400" height="270">
+<img src="./images/Screenshot/Projects.png" alt="Alt text" width="400" height="270">
+<img src="./images/Screenshot/Contact.png" alt="Alt text" width="400" height="270">
   
 </div>
 
