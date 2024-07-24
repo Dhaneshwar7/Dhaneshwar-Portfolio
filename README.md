@@ -38,8 +38,14 @@ Check out the live demo of my portfolio [MY PORTFOLIO CLICK HERE](https://www.dh
 - **Contact**: Ways to get in touch with me.
 
 ## 📸 Screenshots
+<div style="flex">
+<img src="https://www.dhaneshwar.site/images/PizzaWizzaSlider/01.png" alt="Alt text" width="400" height="270">
+<img src="https://www.dhaneshwar.site/images/PizzaWizzaSlider/01.png" alt="Alt text" width="400" height="270">
+<img src="https://www.dhaneshwar.site/images/PizzaWizzaSlider/01.png" alt="Alt text" width="400" height="270">
+<img src="https://www.dhaneshwar.site/images/PizzaWizzaSlider/01.png" alt="Alt text" width="400" height="270">
+  
+</div>
 
-![Homepage](https://yourimageurl.com/homepage.png)
 
 ## 💬 Feedback
 
