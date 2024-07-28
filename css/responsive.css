@@ -195,6 +195,30 @@
 }
 
 @media screen and (max-width: 767.98px) {
+	.about-section .what-is p {
+		font-size: 14px;
+		color: #787878;
+	}
+	.three-board-section .three-board-desc h3 {
+		font-size: 30px;
+		color: #232323;
+		font-weight: 600;
+		margin: 10px 0 20px;
+	}
+	.pattern {
+		background: #f99;
+		height: 100%;
+		left: 50%;
+		position: absolute;
+		top: 50%;
+		width: 100%;
+	}
+	.slbutton{
+		margin-left: 20px;
+	}
+	.target {
+	transform: translate(-50% ,-50%);
+}
 	.mobile-text-center {
 		text-align: center;
 	}
@@ -1204,14 +1228,14 @@
 		display: flex;
 	}
 	.footer-section .copyright-area p {
-	color: #787878;
-	font-size: var(--font16);
-	line-height: 26px;
-	padding: 25px 50px 50px 50px;
-	padding: auto;
-	margin: auto;
-	width: 100%;
-}
+		color: #787878;
+		font-size: var(--font16);
+		line-height: 26px;
+		padding: 25px 50px 50px 50px;
+		padding: auto;
+		margin: auto;
+		width: 100%;
+	}
 	.links img {
 		width: 34px; /* Adjust size as needed */
 		height: 34px;
