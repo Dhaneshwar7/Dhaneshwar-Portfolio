@@ -56,7 +56,7 @@ Your feedback is invaluable! If you have any suggestions or improvements, feel f
 
 - **Email**: [mailMe](mailto:work.dhaneshwar@gmail.com)
 - **LinkedIn**:[My LinkedIn Click Here](https://linkedin.com/in/dhaneshwar-marskole-a4569b206])
-- **Instagram**: [My GitHub Click Here](https://www.instagram.com/deltamike_7/)
+- **Instagram**: [My Instagram Account Mostly Active 😁](https://www.instagram.com/deltamike_7/)
 - **GitHub**: [My GitHub Click Here](https://github.com/Dhaneshwar7)
 
 ## 📄 License
