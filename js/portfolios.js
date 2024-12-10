@@ -76,6 +76,41 @@ var portfolio_data = [
 			},
 		],
 	},
+	{
+		id: 'jdesign',
+		images: [
+			{
+				src: './images/JDesign/01.png',
+				thumb: './images/JDesign/01.png',
+				subHtml: '<h4>Dashboard Page</h4><p> JDesign Landing Page</p>',
+			},
+			{
+				src: './images/JDesign/02.png',
+				thumb: './images/JDesign/02.png',
+				subHtml: '<h4>J Design Portfolio</h4><p> Magnet Effect </p>',
+			},
+			{
+				src: './images/JDesign/03.png',
+				thumb: './images/JDesign/03.png',
+				subHtml: '<h4>J Design Portfolio</h4><p> Text Animated</p>',
+			},
+			{
+				src: './images/JDesign/04.png',
+				thumb: './images/JDesign/04.png',
+				subHtml: '<h4>J Design Portfolio</h4><p> Text Animated</p>',
+			},
+			{
+				src: './images/JDesign/05.png',
+				thumb: './images/JDesign/05.png',
+				subHtml: '<h4>J Design Portfolio</h4><p> Page full Transfromation</p>',
+			},
+			{
+				src: './images/JDesign/06.png',
+				thumb: './images/JDesign/06.png',
+				subHtml: '<h4>J Design Portfolio</h4><p> Footer</p>',
+			},
+		],
+	},
 
 	{
 		id: 'lagunitas',
